@@ -1,7 +1,6 @@
 # app-dev
  My first repository
  # H1
- **bold text**
  Bridgerton
  ## H2
  Synopsis
